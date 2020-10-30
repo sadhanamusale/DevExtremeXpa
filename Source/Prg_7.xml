@@ -2,7 +2,7 @@
 <Application>
 
   <Header>
-    <Version val="14071.00"/>
+    <Version val="14070.00"/>
     <WithIsn val="Y"/>
     <_InternalTask val="N"/>
     <IsRoot val="N"/>
@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="WebClientInfo" ISN_2="1" LastIsn="1" id="7">
+        <Header Description="TableDemo" ISN_2="1" LastIsn="1" id="7">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -31,7 +31,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737727" _time="81209" date="29/10/2020" time="22:33:29"/>
+          <LastModified _date="737728" _time="62487" date="30/10/2020" time="17:21:27"/>
         </Header>
         <ItemIsn val="4"/>
         <Resource>
@@ -270,7 +270,7 @@
               <Width id="23" val="382"/>
               <Height id="24" val="332"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="WebClientInfo"/>
+              <FormName id="311" valUnicode="Table"/>
             </PropertyList>
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_WEB_CLIENT_TABLE">

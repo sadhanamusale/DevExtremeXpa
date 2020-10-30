@@ -2,7 +2,7 @@
 <Application>
 
   <Header>
-    <Version val="14071.00"/>
+    <Version val="14070.00"/>
     <WithIsn val="Y"/>
     <_InternalTask val="N"/>
     <IsRoot val="N"/>
@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="tabcontrol" ISN_2="1" LastIsn="1" id="6">
+        <Header Description="TabControlDemo" ISN_2="1" LastIsn="1" id="6">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -28,7 +28,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737720" _time="75455" date="22/10/2020" time="20:57:35"/>
+          <LastModified _date="737728" _time="64337" date="30/10/2020" time="17:52:17"/>
         </Header>
         <ItemIsn val="3"/>
         <Resource>
@@ -209,7 +209,7 @@
             <PropertyList model="FORM_WEB_CLIENT">
               <FormUnits id="33" val="4"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="tabcontrol"/>
+              <FormName id="311" valUnicode="TabControl"/>
             </PropertyList>
             <Control PDOD="128" _test_id="1" id="1">
               <PropertyList model="CTRL_WEB_CLIENT_TAB">

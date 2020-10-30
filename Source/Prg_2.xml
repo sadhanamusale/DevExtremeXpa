@@ -2,7 +2,7 @@
 <Application>
 
   <Header>
-    <Version val="14071.00"/>
+    <Version val="14070.00"/>
     <WithIsn val="Y"/>
     <_InternalTask val="N"/>
     <IsRoot val="N"/>
@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="form" ISN_2="1" LastIsn="1" id="2">
+        <Header Description="ControlsDemo" ISN_2="1" LastIsn="1" id="2">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -28,7 +28,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737727" _time="58317" date="29/10/2020" time="16:11:57"/>
+          <LastModified _date="737728" _time="62793" date="30/10/2020" time="17:26:33"/>
         </Header>
         <ItemIsn val="8"/>
         <Resource>
@@ -417,7 +417,7 @@
               <Height id="24" val="510"/>
               <FormUnits id="33" val="4"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="edit"/>
+              <FormName id="311" valUnicode="Controls"/>
             </PropertyList>
             <Control _test_id="18" id="18">
               <PropertyList model="CTRL_WEB_CLIENT_LABEL">
